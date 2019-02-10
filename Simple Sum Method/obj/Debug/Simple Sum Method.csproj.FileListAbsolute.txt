@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\Simple Sum Method\Simple Sum Method\bin\Debug\Simple Sum Method.exe.config
+C:\Users\jacob\source\repos\Simple Sum Method\Simple Sum Method\bin\Debug\Simple Sum Method.exe
+C:\Users\jacob\source\repos\Simple Sum Method\Simple Sum Method\bin\Debug\Simple Sum Method.pdb
+C:\Users\jacob\source\repos\Simple Sum Method\Simple Sum Method\obj\Debug\Simple Sum Method.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\Simple Sum Method\Simple Sum Method\obj\Debug\Simple Sum Method.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Simple Sum Method\Simple Sum Method\obj\Debug\Simple Sum Method.exe
+C:\Users\jacob\source\repos\Simple Sum Method\Simple Sum Method\obj\Debug\Simple Sum Method.pdb
